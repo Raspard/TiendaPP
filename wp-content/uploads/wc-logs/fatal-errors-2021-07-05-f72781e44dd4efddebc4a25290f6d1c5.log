@@ -1,0 +1,48 @@
+2021-07-05T23:36:18+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\xampp\htdocs\tienda\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\htdocs\tienda\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\tienda\wp-includes\class-wp-hook.php(292): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\tienda\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\tienda\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\tienda\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\tienda\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\tienda\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\tienda\wp-includes\customize\class-wp-customize-partial.php en la línea 221
+
+2021-07-05T23:36:25+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\xampp\htdocs\tienda\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\htdocs\tienda\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\tienda\wp-includes\class-wp-hook.php(292): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\tienda\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\tienda\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\tienda\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\tienda\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\tienda\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\tienda\wp-includes\customize\class-wp-customize-partial.php en la línea 221
+
+2021-07-05T23:42:23+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\xampp\htdocs\tienda\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\htdocs\tienda\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\tienda\wp-includes\class-wp-hook.php(292): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\tienda\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\tienda\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\tienda\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\tienda\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\tienda\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\tienda\wp-includes\customize\class-wp-customize-partial.php en la línea 221
+
+2021-07-05T23:42:30+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\xampp\htdocs\tienda\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\htdocs\tienda\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\tienda\wp-includes\class-wp-hook.php(292): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\tienda\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\tienda\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\tienda\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\tienda\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\tienda\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\tienda\wp-includes\customize\class-wp-customize-partial.php en la línea 221
+
