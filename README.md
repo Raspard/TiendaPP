@@ -1,2 +1,0 @@
-# TiendaPP
-Almacen de Productos
